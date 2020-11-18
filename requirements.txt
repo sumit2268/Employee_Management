@@ -44,9 +44,7 @@ requests==2.22.0
 requests-unixsocket==0.2.0
 Rx==1.6.1
 SecretStorage==2.3.1
-sgt-launcher==0.2.5
 simplejson==3.16.0
-singledispatch==3.4.0.3
 six==1.14.0
 sqlparse==0.4.1
 systemd-python==234
